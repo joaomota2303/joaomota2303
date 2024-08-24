@@ -1,4 +1,4 @@
-## Olá! Me chamo joaoMota!
+## Olá! joaoMota aqui!
 
 - 🏫 Estudando JavaScript
 - Pronouns: ele/dele
